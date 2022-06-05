@@ -1,1 +1,0 @@
-# Laboratory_work_in_C

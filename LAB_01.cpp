@@ -23,7 +23,8 @@
 #include <iostream>
 
 // Основная программа
-void lab_01() {
+void lab_01()
+{
 	// Подключение русификации программы
 	setlocale(LC_ALL, "Russian");
 

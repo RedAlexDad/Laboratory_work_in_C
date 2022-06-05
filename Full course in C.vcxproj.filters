@@ -18,37 +18,37 @@
     <ClCompile Include="main.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
+    <ClCompile Include="LAB_03.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
     <ClCompile Include="LAB_01.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="..\LAB_2\LAB_02.cpp">
+    <ClCompile Include="LAB_02.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="..\LAB_3\LAB_3\LAB_03.cpp">
+    <ClCompile Include="LAB_04.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="..\LAB_04\LAB_04.cpp">
+    <ClCompile Include="LAB_05.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="..\LAB_04\LAB_04_support.cpp">
+    <ClCompile Include="LAB_06.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="..\LAB_05\LAB_05.cpp">
+    <ClCompile Include="LAB_07.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="..\LAB_05\LAB_05_support.cpp">
+    <ClCompile Include="LAB_06_support.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="..\LAB_06\LAB_06.cpp">
+    <ClCompile Include="LAB_04_support.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="..\LAB_06\LAB_06_support.cpp">
+    <ClCompile Include="LAB_05_support.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="..\LAB_07\LAB_07\LAB_07.cpp">
-      <Filter>Исходные файлы</Filter>
-    </ClCompile>
-    <ClCompile Include="..\LAB_07\LAB_07\LAB_07_support.cpp">
+    <ClCompile Include="LAB_07_support.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>
